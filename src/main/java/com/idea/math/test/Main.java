@@ -2,7 +2,7 @@ package com.idea.math.test;
 
 /**
  * @author: liYuan
- * @Title: Main1
+ * @Title: Main1111111
  * @ProjectName: Mathematics_basic_popular_science_code
  * @Description:
  * @date: 2022/7/14 10:12
