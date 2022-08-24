@@ -5,7 +5,7 @@ package com.idea.math.test;
  * @Title: Main1111111
  * @ProjectName: Mathematics_basic_popular_science_code
  * @Description:
- * @date: 2022/7/14 10:121111111
+ * @date: 2022/7/14 10:121111111去
  */
 public class Main {
     public static void main(String[] args) {
