@@ -4,7 +4,7 @@ package com.idea.math.test;
  * @author: liYuan
  * @Title: Main1111111
  * @ProjectName: Mathematics_basic_popular_science_code
- * @Description: 12311111111111111111111111
+ * @Description: 1231111111111111111111111
  * @date: 2022/7/14 10:12
  */
 public class Main {
